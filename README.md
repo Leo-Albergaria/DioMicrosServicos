@@ -1,2 +1,5 @@
-# DioMicrosServicos
-Treinamento - Construindo um projeto com arquitetura baseada em micros-serviços usando Spring Cloud
+# Dio - Express
+
+Treinamento de Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud.
+
+Prof. Oswaldo Neto.
