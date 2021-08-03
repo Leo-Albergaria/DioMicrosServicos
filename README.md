@@ -1,7 +1,7 @@
 <p><img src="https://user-images.githubusercontent.com/63436406/128036531-169bb0da-1a67-48f1-a286-f5cd8a187121.png" align="left" height="150px" width="150px">
    <h1># Spring Cloud - Express</h1> 
-   Treinamento de Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud. 
-   Prof. Oswaldo Neto.
+   <p align="justify">Treinamento de Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud. 
+   Prof. Oswaldo Neto.</p>
 </p>      
 
 ---
